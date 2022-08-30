@@ -1,5 +1,5 @@
 resource "azurerm_resource_group" "resorcegroup" {
-  name     = "rm07"
+  name     = "rm08"
   location = "East us"
 }
 resource "azurerm_virtual_network" "vnet" {
